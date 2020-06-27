@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Parent from './parent';
 import ValueContext from './ValueContext';
+import numberReducer from './numberReducer'
 
 
 function App() {
